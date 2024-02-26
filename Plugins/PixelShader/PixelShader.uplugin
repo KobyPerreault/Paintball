@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PixelShader",
+	"Description": "Makes the game look pixelated",
+	"Category": "Other",
+	"CreatedBy": "Koby Perreault",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PixelShader",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
